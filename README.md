@@ -68,3 +68,4 @@ the MoR structure through `EvalMoRLLaVAPhiForCausalLM`.
 The code is implemented based on [MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA), and [mixture_of_recursions](https://github.com/raymin0223/mixture_of_recursions). We thank the contributors for their great work!
 
 Licensed under the [Apache License 2.0](LICENSE), consistent with both upstream projects.
+
