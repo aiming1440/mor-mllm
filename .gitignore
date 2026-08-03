@@ -1,0 +1,7 @@
+train_data/
+checkpoints/
+*.egg-info/
+__pycache__/
+cache_dir/
+eval/
+experiments/
